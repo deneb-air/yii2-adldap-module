@@ -2,6 +2,7 @@
 
 [Yii2](http://www.yiiframework.com) extension for adLDAP (https://packagist.org/packages/adldap/adldap)
 
+The original module was abandoned by the author. This is a forked version
 
 ## Installation
 
@@ -12,11 +13,11 @@ The preferred way to install this extension is through [Composer](http://getcomp
 
 Either run
 
-	php composer.phar require edvlerblog/yii2-adldap-module "v1.0.0"
+	php composer.phar require motionland/yii2-adldap-module "v1.0.2"
 
 or add
 
-	"edvlerblog/yii2-adldap-module": "v1.0.0"
+	"motionland/yii2-adldap-module": "v1.0.0"
 
 to the require section of your composer.json
 
