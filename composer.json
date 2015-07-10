@@ -13,6 +13,12 @@
             "name": "Vitaliy"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/adldap/adLDAP.git"
+        }
+    ],
     "require": {
         "adldap/adldap": "4.0.4"
     },
