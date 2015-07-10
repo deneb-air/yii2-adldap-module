@@ -1,17 +1,16 @@
    {
-    "name": "motionland/yii2-adldap-module",
+    "name": "denebsoft/yii2-adldap-module",
     "description": "yii2 adldap extention (wrapper for adldap/adLDAP Module)",
     "keywords": ["active directory","ldap","yii2", "adldap", "ad"],
     "type": "yii2-extension",
      "license": "LGPL-2.1",
     "support": {
-        "issues": "https://github.com/motionland/yii2-adldap-module/issues",
-        "source": "https://github.com/motionland/yii2-adldap-module"
+        "issues": "https://github.com/deneb-air/yii2-adldap-module/issues",
+        "source": "https://github.com/deneb-air/yii2-adldap-module"
     },
     "authors": [
         {
-            "name": "Max",
-            "email": "apistream@gmail.com"
+            "name": "Vitaliy"
         }
     ],
     "require": {
@@ -22,13 +21,7 @@
     },
     "autoload": {
         "psr-4" : {
-         "Motionland\\" : "src/"
+         "denebsoft\\" : "src/"
      }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-1.0.master": "1.0.x-dev",
-            "dev-master": "2.0.x-dev"
-        }
     }
 }
