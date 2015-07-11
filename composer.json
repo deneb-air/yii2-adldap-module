@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "adldap/adldap": "~4.0"
+        "adldap/adldap": "dev-master"
     },
     "suggest": {
         "yiisoft/yii2-bootstrap": "TBA"
